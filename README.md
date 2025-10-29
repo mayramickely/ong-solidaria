@@ -1,31 +1,23 @@
-# ONG Solidária — Projeto (Entrega II)
+# 💙 ConectaONGs
 
-Projeto de demonstração para a Entrega II — interface profissional em CSS3, responsiva e acessível.
+Plataforma moderna desenvolvida para conectar ONGs e projetos sociais a pessoas interessadas em ajudar.
 
-## Estrutura
-```
-ong-solidaria/
-├── index.html
-├── css/
-│   ├── variables.css
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-│   ├── logo.svg
-│   └── banner.svg
-└── README.md
-```
+🔗 **Acesse o site:**  
+👉 [https://mayramickely.github.io/conecta__ongs/](https://mayramickely.github.io/conecta__ongs/)
 
-## Como usar
-1. Baixe e extraia o ZIP.
-2. Abra `index.html` no navegador.
-3. Para publicar no GitHub: crie um repositório público e envie os arquivos da pasta.
+---
 
-## Observações
-- Tema: tons mesclados de azul.
-- Layout: Grid de 12 colunas, 5 breakpoints, componentes estilizados (botões, cards, formulários, toasts, modal).
-- Arquivos CSS organizados e variáveis do design system em `variables.css`.
+## 🧩 Sobre o projeto
+O **ConectaONGs** foi criado como parte da disciplina **Experiência Prática II**, com o objetivo de aplicar conhecimentos de HTML, CSS e JavaScript em um projeto real e socialmente relevante.
 
-## Contato
-Se quiser personalizar cores, textos, ou gerar PNG do logo, peça que eu converta o SVG em PNG e inclua no pacote.
+A ideia é oferecer uma plataforma simples e moderna que aproxime organizações e voluntários.
+
+---
+
+## 🚀 Tecnologias utilizadas
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+
+---
+
