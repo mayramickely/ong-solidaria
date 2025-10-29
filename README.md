@@ -18,6 +18,14 @@ A ideia é oferecer uma plataforma simples e moderna que aproxime organizações
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
+- 
+## 👩‍💻 Autora
+**Mayra Mickely**  
+🎓 Projeto acadêmico — Experiência Prática II  
+📧 [mickelyp@gmail.com](mailto:mickelyp@gmail.com)
 
+---
+
+💬 *“Pequenas ações podem gerar grandes mudanças.”*
 ---
 
